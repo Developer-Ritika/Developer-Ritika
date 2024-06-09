@@ -6,8 +6,6 @@
 - 😄 Pronouns: She/Her
 
 
-This is a test :smilly_face_emoji_not_available:
-
 
 <!---
 r1t1kv/r1t1kv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
