@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ritka
 
-![](bg.png)
+![](./bg.png)
 
 Hi there! 👋 I'm a frontend developer focused on building engaging, user-centered web experiences that blend design and functionality. Here's a bit about me:
 
