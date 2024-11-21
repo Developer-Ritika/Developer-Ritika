@@ -1,4 +1,7 @@
 # Hi 👋, I'm Ritka
+
+![](https://images8.alphacoders.com/134/thumb-1920-1349195.png)
+
 Hi there! 👋 I'm a frontend developer focused on building engaging, user-centered web experiences that blend design and functionality. Here's a bit about me:
 
 - 💻 **Skills**: Proficient in **HTML, CSS, JavaScript, PHP, Python, and C++**
