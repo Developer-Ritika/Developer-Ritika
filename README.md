@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ritka
 
-![](https://images8.alphacoders.com/134/thumb-1920-1349195.png)
+![](bg.png)
 
 Hi there! 👋 I'm a frontend developer focused on building engaging, user-centered web experiences that blend design and functionality. Here's a bit about me:
 
