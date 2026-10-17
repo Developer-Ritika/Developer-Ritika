@@ -6,8 +6,7 @@
 ![Data Science](https://img.shields.io/badge/Data%20Science-Research-D1C4E9)
 ![Lifestyle & Hobbies](https://img.shields.io/badge/Lifestyle%20%26%20Hobbies-Self%20Care%20%26%20Creativity-FCE4EC)
 
-I teach Computer Science to college students and build practical projects in software testing, data analysis, and research-based problem solving.
-
+I teach Computer Science to college students while exploring data analytics, research-driven problem-solving, and practical applications of technology through continuous learning and hands-on projects.
 
 ## ✨ About Me
 
@@ -21,10 +20,11 @@ I teach Computer Science to college students and build practical projects in sof
 
 | Area | Tools & Topics |
 |---|---|
-| Programming | Python, C++, JavaScript, TypeScript, SQL |
+| Programming | Python, SQL |
 | Automation | Playwright, Page Object Model, GitHub Actions |
-| Data Science | Pandas, NumPy, Jupyter Notebook, Scikit-learn |
+| Data Science | Pandas, NumPy, Jupyter Notebook, Power Bi |
 | Tools | Git, GitHub, VS Code |
+|AI Tooling | ChatGPT, Grok, Claude, Codex, Antigravity, Hermes Agent |
 
 ## 📚 Teaching Areas
 
