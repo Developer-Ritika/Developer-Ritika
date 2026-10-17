@@ -1,6 +1,6 @@
 # Hi, I'm Ritika 🌸
 
-### Assistant Professor (CS) | QA Testing | Data Science Research
+### Assistant Professor (CS) | Data Science Research | Lifestyle & Hobbies
 
 ![Teaching](https://img.shields.io/badge/Teaching-Computer%20Science-F8BBD0)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Research-D1C4E9)
@@ -41,3 +41,17 @@ I teach Computer Science to college students and build practical projects in sof
 - Data science research methods
 - SQL for analytics
 - Technical documentation
+
+  
+## 🌷 Beyond Tech
+
+Beyond coding, teaching, and exploring data, I love embracing the little things that bring creativity, balance, and joy to everyday life. 💗
+
+- 🧴 Skincare & beauty — exploring skincare routines and self-care rituals
+- 🌸 Self-care & wellness — making time for myself and mindful living
+- 🎨 Art & crafts — expressing creativity through DIYs and handmade projects
+- ☕ Coffee & cozy moments — finding joy in life's little pleasures
+- 🌱 Personal growth — learning new things and continuously evolving
+
+*Curious mind, creative soul, and a little self-care in between.* ✨
+
