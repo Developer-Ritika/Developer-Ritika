@@ -3,7 +3,6 @@
 ### Assistant Professor (CS) | QA Testing | Data Science Research
 
 ![Teaching](https://img.shields.io/badge/Teaching-Computer%20Science-F8BBD0)
-![QA](https://img.shields.io/badge/QA-Testing-E1BEE7)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Research-D1C4E9)
 
 I teach Computer Science to college students and build practical projects in software testing, data analysis, and research-based problem solving.
