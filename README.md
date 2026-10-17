@@ -11,8 +11,8 @@ I teach Computer Science to college students and build practical projects in sof
 ## ✨ About Me
 
 - Assistant Professor in Computer Science
-- Interested in QA testing, data science, and research
-- Building projects with Python, Playwright, SQL, and GitHub Actions
+- Interested in data science, research and Business Process & Analytics
+- Building projects with Python, Power BI, SQL, and GitHub Actions
 - Focused on clean documentation and practical learning
 
 
@@ -21,24 +21,23 @@ I teach Computer Science to college students and build practical projects in sof
 | Area | Tools & Topics |
 |---|---|
 | Programming | Python, C++, JavaScript, TypeScript, SQL |
-| QA Testing | Manual Testing, API Testing, UI Testing, Bug Reporting |
 | Automation | Playwright, Page Object Model, GitHub Actions |
 | Data Science | Pandas, NumPy, Jupyter Notebook, Scikit-learn |
 | Tools | Git, GitHub, VS Code |
 
 ## 📚 Teaching Areas
 
-- Programming Fundamentals
+- Python
 - Database Management Systems
-- Software Engineering
+- SQL
 - Computer Networks
-- Operating Systems
-- Data Structures
+- Excel
+- Power Bi
+- Computer Fundamentals
 
 ## 🌱 Currently Learning
 
-- Advanced QA automation
-- API testing workflows
+- Python, Business Process, reports, visulations
 - Data science research methods
 - SQL for analytics
 - Technical documentation
