@@ -4,6 +4,7 @@
 
 ![Teaching](https://img.shields.io/badge/Teaching-Computer%20Science-F8BBD0)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Research-D1C4E9)
+![Lifestyle & Hobbies](https://img.shields.io/badge/Lifestyle%20%26%20Hobbies-Self%20Care%20%26%20Creativity-FCE4EC)
 
 I teach Computer Science to college students and build practical projects in software testing, data analysis, and research-based problem solving.
 
